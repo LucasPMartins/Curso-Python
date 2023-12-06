@@ -6,7 +6,7 @@
 
 Aprimorei meus conhecimentos de programação acompanhando o curso de programação **Python** do professor **Gustavo Guanabara**, que está disponível gratuitamente no **YouTube**. 
 
-Nas playlists [Curso de Python 3 - Mundo 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6), [Curso de Python 3 - Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&pp=iAQB), [Curso de Python 3 - Mundo 3](https://www.youtube.com/@CursoemVideo), aprendi e dominei os conceitos básicos e entendi a linguagem **Python**. Esta experiência enriquecedora não só ampliou meus conhecimentos, mas também me proporcionou competências práticas e aplicáveis. 
+Nas playlists [Curso de Python 3 - Mundo 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6), [Curso de Python 3 - Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&pp=iAQB), [Curso de Python 3 - Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&pp=iAQB), aprendi e dominei os conceitos básicos e entendi a linguagem **Python**. Esta experiência enriquecedora não só ampliou meus conhecimentos, mas também me proporcionou competências práticas e aplicáveis. 
 
 Recomendo este curso para quem deseja iniciar ou aprimorar seus conhecimentos em **Python**. Agradeço ao professor **Gustavo Guanabara** por compartilhar seu conhecimento de forma acessível e cativante.
 
