@@ -1,0 +1,15 @@
+print('======= DESAFIO 03 =======\n')
+print('====== Tentativa 01 ======\n')
+num1 = input('Primeiro número: ')
+num2 = input('Segundo número: ')
+print('A soma é',num1+num2)
+print('====== Tentativa 02 ======\n')
+num1 = input('Primeiro número: ')
+num2 = input('Segundo número: ')
+aux = num1 + num2
+print('A soma é',aux)
+print('====== Tentativa 03 ======\n')
+num1 = input('Primeiro número: ')
+num2 = input('Segundo número: ')
+aux = num1 + num2
+print('A soma é',aux)
