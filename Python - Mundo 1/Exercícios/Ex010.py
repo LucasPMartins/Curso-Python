@@ -6,4 +6,4 @@ U$1.00 = R$3.27
 '''
 
 n = float(input('Digite um valor: R$'))
-print(f'Você pode compra {n//3.27} dólares')
+print(f'Você pode compra {n/3.27:.2f} dólares')
